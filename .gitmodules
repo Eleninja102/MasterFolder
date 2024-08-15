@@ -4,3 +4,6 @@
 [submodule "banking-app-group"]
 	path = banking-app-group
 	url = https://github.com/Weber-Cooper-Maitoza/banking-app-group
+[submodule "Hangman_Game_Group"]
+	path = Hangman_Game_Group
+	url = https://github.com/Weber-Cooper-Maitoza/Hangman_Game_Group

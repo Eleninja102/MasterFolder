@@ -1,3 +1,6 @@
 [submodule "Assignment---Four-in-a-Row-Game"]
 	path = Assignment---Four-in-a-Row-Game
 	url = git@github.com:Eleninja102/Assignment---Four-in-a-Row-Game.git
+[submodule "banking-app-group"]
+	path = banking-app-group
+	url = https://github.com/Weber-Cooper-Maitoza/banking-app-group
